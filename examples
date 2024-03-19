@@ -1,0 +1,144 @@
+Social share buttons don’t work
+Many websites have buttons for sharing information, but in this example those buttons don’t work.
+________________________________________
+Severity
+Low
+Issue Type
+Functional
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open the Articles List
+2.	Click on the social share buttons at the bottom of the posts to share them
+Expected Result
+To be able to share posts using the social media share buttons
+Actual Result
+The social share buttons don't lead to anywhere
+Attachments
+             
+
+
+
+
+
+Send button returns an error page
+Users should be able to send a message when clicking send, but in this example the button returns an error page.
+________________________________________
+Severity
+Medium
+Issue Type
+Functional
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open the Contact Us Form
+2.	Fill in the form and click "Send"
+Expected Result
+The message is sent through the contact us form
+Actual Result
+After filling in the form and clicking the 'Send' button, an error message is displayed
+Attachments
+
+
+  
+
+
+Video player doesn’t work
+Video players should quickly buffer and play video files, but in this example some videos can’t be played.
+________________________________________
+Severity
+High
+Issue Type
+Functional
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open the Latest news page
+2.	Try to play the videos on the left column
+Expected Result
+The videos in the left column are played back
+Actual Result
+A black screen is shown instead of videos in the left column
+Attachments
+  
+
+
+
+
+Articles show an error page
+The articles should show appropriate content, but in this example clicking an article shows an error page.
+________________________________________
+Severity
+High
+Issue Type
+Functional
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open the Articles list
+2.	Open an article by clicking on the image, title or the Read More button
+Expected Result
+The articles show appropriate content
+Actual Result
+Clicking on all articles open an error page
+Attachments
+  
+
+
+
+
+Search button leads to an error
+A search button should find appropriate results, but in this example clicking on it leads to an error page.
+________________________________________
+Severity
+High
+Issue Type
+Functional
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open the Product Details Page
+2.	On right side type the same product's name and hit "Search"
+Expected Result
+Appropriate results are found
+Actual Result
+Clicking on the 'Search' button leads to an error page
+Attachments
+  
+
+
+
+
+
+
+Booking a table doesn't work
+The user should be able to book a table, but in this example the user cannot submit the booking form.
+________________________________________
+Severity
+Critical
+Issue Type
+Functional
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open the Table Reservation form
+2.	Fill in the form
+3.	Click "Request Booking"
+Expected Result
+The form is submitted successfully and a confirmation message is shown
+Actual Result
+The same page is shown again
+Attachments
+  
