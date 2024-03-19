@@ -1,0 +1,520 @@
+ the page freezes when changing the currency.
+________________________________________
+Severity
+High
+Issue Type
+Crash
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open https://academybugs.com
+2.	Click the Find Bugs link on the navigation bar
+3.	Open a product
+4.	Change the currency in the right side menu
+Expected Result
+The currency is changed as expected
+Actual Result
+The page freezes when changing the currency
+Attachments
+  
+
+
+ the product quantity cannot be increased past 2.
+________________________________________
+Severity
+High
+Issue Type
+Functional
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open https://academybugs.com
+2.	Click the Find Bugs link on the navigation bar
+3.	Add one or more products to the cart
+4.	Click the "View cart" link on top of the page
+5.	Set the products quantity to 3 or more
+6.	Click "update" below
+Expected Result
+The product quantity can be increased past 2
+Actual Result
+When clicking on the update button the product quantity becomes 2 again
+Attachments
+  
+ the page becomes unresponsive when clicking on the numbers of results.
+________________________________________
+Severity
+High
+Issue Type
+Crash
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open https://academybugs.com
+2.	Click the Find Bugs link on the navigation bar
+3.	Click on the buttons to show a certain number of results at the top left
+Expected Result
+The selected number of results is displayed according to the clicked buttons
+Actual Result
+The page freezes when clicking on the numbers of results
+Attachments
+  
+
+
+ there is big space before the last letter in "Return to Store".
+________________________________________
+Severity
+Low
+Issue Type
+Content
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open https://academybugs.com
+2.	Click the Find Bugs link on the navigation bar
+3.	Open a product
+4.	Open the cart at the bottom of right side menu
+5.	Clear the cart if there are any items
+Expected Result
+The caption of the "Return to Store" button is written with even spacing between letters
+Actual Result
+There is too much space before the last letter in "Return to Store"
+Attachments
+  
+
+the short description and description of the product are not in English.
+________________________________________
+Severity
+Medium
+Issue Type
+Content
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open https://academybugs.com
+2.	Click the Find Bugs link on the navigation bar
+3.	Open a product
+Expected Result
+The short description and description of the product are in English
+Actual Result
+The short description and description of the product are not in English
+Attachments
+  
+
+
+ the page becomes unresponsive when clicking on the Post Comment button.
+________________________________________
+Severity
+High
+Issue Type
+Crash
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open https://academybugs.com
+2.	Click the Find Bugs link on the navigation bar
+3.	Open a product
+4.	Scroll down to the Leave a Reply section
+5.	Fill out the comment form
+6.	Click "Post Comment"
+Expected Result
+The comment is posted under the product
+Actual Result
+The page becomes unresponsive when clicking on "Post Comment"
+Attachments
+  
+
+
+
+
+the filter by price doesn't work in the product details or product list pages.
+________________________________________
+Severity
+Medium
+Issue Type
+Functional
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open https://academybugs.com
+2.	Click the Find Bugs link on the navigation bar
+3.	Open a product
+4.	On the right side menu find the Filter by Price section
+5.	Select any of the price ranges
+6.	Also open any item from the right side Store Menu and select the price ranges on the right side menu
+Expected Result
+A list of products in the selected price range is shown
+Actual Result
+The same page reloads
+Attachments
+  
+
+the twitter share button in the product details page is broken.
+________________________________________
+Severity
+Medium
+Issue Type
+Functional
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open https://academybugs.com
+2.	Click the Find Bugs link on the navigation bar
+3.	Open a product
+4.	Click the twitter share button
+Expected Result
+The twitter share button shows an appropriate page
+Actual Result
+The twitter share button shows an error page
+Attachments
+  
+
+
+
+My Space share page loads infinitely.
+________________________________________
+Severity
+Low
+Issue Type
+Performance
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open https://academybugs.com
+2.	Click the Find Bugs link on the navigation bar
+3.	Open a product
+4.	Click the My Space share link
+Expected Result
+The user is able to share the product through My Space
+Actual Result
+My Space share page loads infinitely
+Attachments
+  
+
+
+the image is not completely displayed.
+________________________________________
+Severity
+Medium
+Issue Type
+Visual
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open https://academybugs.com
+2.	Click the Find Bugs link on the navigation bar
+3.	Click on "Dark Grey Jeans"
+Expected Result
+The product image fills the box entirely
+Actual Result
+The image has a white space on the right
+Attachments
+  
+
+ item images have unnecessary space underneath.
+________________________________________
+Severity
+Low
+Issue Type
+Visual
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open https://academybugs.com
+2.	Click the Find Bugs link on the navigation bar
+3.	Open a product
+4.	Find the Store Menu section in the right side menu
+5.	Choose All Items
+Expected Result
+Item images have no space underneath
+Actual Result
+Item images have unnecessary space underneath
+Attachments
+  
+
+
+ the manufacturer link in the product details page is broken.
+________________________________________
+Severity
+Medium
+Issue Type
+Functional
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open https://academybugs.com
+2.	Click the Find Bugs link on the navigation bar
+3.	Open a product
+4.	Click the manufacturer link under the quantity
+Expected Result
+The manufacturer link shows an appropriate page
+Actual Result
+The manufacturer link opens an error page
+Attachments
+  
+
+
+
+
+
+ the text under the New User section is not in English.
+________________________________________
+Severity
+Low
+Issue Type
+Content
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open https://academybugs.com
+2.	Click the Find Bugs link on the navigation bar
+3.	Open a product
+4.	Scroll down to the bottom of the right side menu
+5.	Click "Sign In" to open the sign in page
+Expected Result
+The text under the New User section is in English
+Actual Result
+The text under the New User section is in another language
+Attachments
+  
+
+the billing address loads infinitely.
+________________________________________
+Severity
+Medium
+Issue Type
+Performance
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open https://academybugs.com
+2.	Click the Find Bugs link on the navigation bar
+3.	Open a product
+4.	Sign up if you are not signed up or log in at the bottom of right side menu
+5.	At the bottom of the right side menu select Dashboard
+6.	Scroll up to the Billing Address section
+Expected Result
+The Billing Address section shows appropriate info
+Actual Result
+The Billing Address section loads infinitely
+Attachments
+  
+
+ the billing information isn't updated.
+________________________________________
+Severity
+High
+Issue Type
+Performance
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open https://academybugs.com
+2.	Click the Find Bugs link on the navigation bar
+3.	Open a product
+4.	Click "Sign Up" at the bottom of right side menu
+5.	Sign up with fake data if you are not signed up. Otherwise enter your credentials and log in
+6.	At the bottom of the right side menu select Billing Information
+7.	Fill out the billing information form
+8.	Click "Update"
+Expected Result
+Billing information is updated after filling out the form and clicking "Update"
+Actual Result
+Billing information loads infinitely after filling out the form and clicking "Update"
+Attachments
+  
+the page becomes unresponsive when clicking on the Retrieve Password button.
+________________________________________
+Severity
+High
+Issue Type
+Crash
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open https://academybugs.com
+2.	Click the Find Bugs link on the navigation bar
+3.	Open a product
+4.	Scroll down to the Your Account section of the right side menu
+5.	Click "Sign Up"
+6.	In the Returning Customer section click "Forgot Your Password?"
+7.	Enter your email in the field and click "Retrieve Password"
+Expected Result
+The password is sent to the entered email
+Actual Result
+The page becomes unresponsive when clicking on "Retrieve Password" and no email is sent
+Attachments
+  
+
+the Sign In button overlaps the footer.
+________________________________________
+Severity
+Low
+Issue Type
+Visual
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open https://academybugs.com
+2.	Click the Find Bugs link on the navigation bar
+3.	Open a product with no color selection options
+4.	Scroll down to the bottom of the right side menu
+Expected Result
+The Sign In button is above the footer
+Actual Result
+The Sign In button overlaps the footer
+Attachments
+  
+
+
+
+
+ there are unreadable symbols in the shopping cart popup.
+________________________________________
+Severity
+Low
+Issue Type
+Content
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open https://academybugs.com
+2.	Click the Find Bugs link on the navigation bar
+3.	Add one or more products to the cart
+4.	Click "View Cart" on top of the page
+5.	Scroll down to the Shopping Cart section of the right side menu
+6.	Hover over the Shopping Cart caption
+Expected Result
+All characters are clear to a regular user
+Actual Result
+There are unreadable symbols in the shopping cart popup
+Attachments
+  
+ the title of the password field is misaligned.
+________________________________________
+Severity
+Low
+Issue Type
+Visual
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open https://academybugs.com
+2.	Click the Find Bugs link on the navigation bar
+3.	Open a product
+4.	Scroll down to the bottom of the right side menu
+5.	Click "Sign In" without filling the form to open the Sign In page
+Expected Result
+The title of the password field is aligned the same as the field above
+Actual Result
+The title of the password field is not aligned the same as the field above
+Attachments
+  
+
+In this bug, the caption of the Sign In button is misaligned vertically.
+________________________________________
+Severity
+Low
+Issue Type
+Visual
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open https://academybugs.com
+2.	Click the Find Bugs link on the navigation bar
+3.	Open a product
+4.	Scroll to the bottom and find the sign in form in the right side menu
+5.	Enter any login and password that are not registered and click "Sign In"
+Expected Result
+The caption of the Sign In button is centered vertically
+Actual Result
+The caption of the Sign In button is misaligned vertically
+Attachments
+  
+
+the product in the Hot Item section keeps loading.
+________________________________________
+Severity
+High
+Issue Type
+Performance
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open https://academybugs.com
+2.	Click the Find Bugs link on the navigation bar
+3.	Open a product
+4.	Open the product in the Hot Item section of the right side menu
+Expected Result
+The product in the Hot Item section is displayed
+Actual Result
+The page loads infinitely
+Attachments
+  
+
+
+ the yellow and orange colors of the product are misspelled.
+________________________________________
+Severity
+Low
+Issue Type
+Content
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open https://academybugs.com
+2.	Click the Find Bugs link on the navigation bar
+3.	Open a product with color options
+4.	Choose the Yellow and Orange colors
+Expected Result
+The yellow and orange colors are spelled correctly
+Actual Result
+Yellow is misspelled as "Yelow" and Orange as "Orang"
+Attachments
+  
+
+
+
