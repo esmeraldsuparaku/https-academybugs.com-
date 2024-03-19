@@ -1,0 +1,121 @@
+Functional
+Workflow failures producing an unexpected or illogical application behavior where the actual result differs from the expected result.
+________________________________________
+Severity
+Medium
+Issue Type
+Functional
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open the Opportunities We Provide page
+2.	Click the "Apply now" button at the bottom
+Expected Result
+To see an appropriate page after clicking on the button
+Actual Result
+Nothing happens when clicking on the button
+Attachments
+  
+
+
+Visual
+Visual issues affect the layout and cause user interface distortion such as missing elements or images on a page.
+________________________________________
+Severity
+Low
+Issue Type
+Visual
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open the Articles page
+2.	Scroll down to the last article
+Expected Result
+To see the last articles's image
+Actual Result
+The last article's image is broken
+Attachments
+  
+
+
+
+
+Content
+Content issues affect the text of a page, such as spelling, grammar and localization errors.
+________________________________________
+Severity
+Low
+Issue Type
+Content
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open the Frequently Asked Questions page
+Expected Result
+To see the page in English
+Actual Result
+Some parts of the page are not translated
+Attachments
+  
+
+
+
+
+
+
+Performance
+Problematic slowness or hanging, sluggish interface. Features take longer to load than they should, slow navigation in the application.
+________________________________________
+Severity
+High
+Issue Type
+Performance
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open the Request a Quote page
+Expected Result
+The page loads in a timely manner
+Actual Result
+The page loads infinitely
+Attachments
+  
+
+
+
+
+Crash
+Application quits or closes unexpectedly while using the features.
+________________________________________
+Severity
+Critical
+Issue Type
+Crash
+Frequency
+Every Time
+Environment
+All Browsers
+Action Performed
+1.	Open the What We Offer page
+2.	Click on the second page button at the bottom
+Expected Result
+The second page opens as expected
+Actual Result
+The entire page including the links and buttons become unresponsive
+Attachments
+  
+
+
+
+
+
+
+
